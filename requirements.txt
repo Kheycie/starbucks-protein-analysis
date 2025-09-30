@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+
+# Users can install all dependencies by running:
+
+pip install -r requirements.txt
